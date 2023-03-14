@@ -281,7 +281,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 
 @keyframes cloud-move {
     from {
-        transform: translate(o, 50px);
+        transform: translate(0, 50px);
     }
     to {
         transform: translate(200px, 50px);

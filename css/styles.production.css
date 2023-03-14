@@ -340,8 +340,8 @@ button:hover, button:focus, .button:hover, .button:focus {
 
 @-webkit-keyframes cloud-move {
     from {
-        -webkit-transform: translate(o, 50px);
-                transform: translate(o, 50px);
+        -webkit-transform: translate(0, 50px);
+                transform: translate(0, 50px);
     }
     to {
         -webkit-transform: translate(200px, 50px);
@@ -351,8 +351,8 @@ button:hover, button:focus, .button:hover, .button:focus {
 
 @keyframes cloud-move {
     from {
-        -webkit-transform: translate(o, 50px);
-                transform: translate(o, 50px);
+        -webkit-transform: translate(0, 50px);
+                transform: translate(0, 50px);
     }
     to {
         -webkit-transform: translate(200px, 50px);
