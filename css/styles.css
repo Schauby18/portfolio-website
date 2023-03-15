@@ -43,7 +43,7 @@ h2 {
 
 h3 {
     font-weight: var(--h-font-weight);
-    font-size: var(--font-weight);
+    font-size: var(--font-size);
     color: var(--font-color);
 }
 
