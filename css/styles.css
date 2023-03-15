@@ -113,7 +113,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 .about-me {
-    max-width: 500px;
+    max-width: 650px;
     text-align: center;
     margin: 0 auto;
 }
@@ -160,7 +160,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 .nav-list li {
-    display: inline-block;
+    display: block;
 }
 
 .grid-item {
