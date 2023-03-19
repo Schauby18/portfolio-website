@@ -175,6 +175,13 @@ button:hover, button:focus, .button:hover, .button:focus {
     text-align: right;
 }
 
+.page-header__item:last-child a{
+    text-decoration: none;
+    position: relative;
+    color: var(--font-color);
+    font: var(--font-size);
+}
+
 .navigation-list {
     list-style-type: none;
 }
