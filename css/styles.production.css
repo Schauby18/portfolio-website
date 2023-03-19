@@ -269,7 +269,7 @@ button:hover, button:focus, .button:hover, .button:focus {
     color: #2b3c4c;
     text-decoration: none;
     font: 20px Raleway;
-    margin: 0px 10px;
+    margin: 0 auto;
     position: relative;
     z-index: 0;
     cursor: pointer;
