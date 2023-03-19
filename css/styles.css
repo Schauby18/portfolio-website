@@ -146,6 +146,10 @@ button:hover, button:focus, .button:hover, .button:focus {
     text-align: right;
 }
 
+.page-header_item:first-child{
+    width: 200px;
+}
+
 .navigation-list {
     list-style-type: none;
 }
