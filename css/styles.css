@@ -138,7 +138,6 @@ button:hover, button:focus, .button:hover, .button:focus {
 
 .page-header_item {
     flex: 0 1 200px;
-    max-height: 50px;
 }
 
 .page-header_item:last-child {
